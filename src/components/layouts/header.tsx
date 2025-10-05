@@ -1,6 +1,10 @@
-import Link from "next/link";
-import { Button } from "../ui/button";
 import { ExternalLinkIcon } from "lucide-react";
+
+import Link from "next/link";
+
+import { GITHUB_REPO_URL } from "@/lib/constants";
+
+import { Button } from "@/components/ui/button";
 
 export default function Header() {
   return (
@@ -13,7 +17,7 @@ export default function Header() {
           Complete Intro to IT
         </Link>
         <Button asChild>
-          <Link href="https://github.com" target="_blank">
+          <Link href={GITHUB_REPO_URL} target="_blank">
             View on GitHub
             <ExternalLinkIcon />
           </Link>
