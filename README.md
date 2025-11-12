@@ -1,36 +1,121 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Course outline
 
-## Getting Started
+### **Start Here**
 
-First, run the development server:
+* Welcome
+* About
+* Roadmap
+* How to Use
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+---
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+### **Computer Basics**
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+* CPU
+* RAM
+* Storage
+* GPU
+* Motherboard
+* How Computers Work
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+---
 
-## Learn More
+### **Operating Systems**
 
-To learn more about Next.js, take a look at the following resources:
+* Overview
+* Windows / macOS / Linux
+* File System
+* Software Management
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+---
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+### **Keyboard & Shortcuts**
 
-## Deploy on Vercel
+* Key Types
+* Shortcuts
+* Typing Skills
+* Productivity Tips
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+---
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+### **Internet & Networking**
+
+* How Internet Works
+* IP & DNS
+* Safety & Security
+* Smart Searching
+
+---
+
+### **Files & Organization**
+
+* Folder Structure
+* Naming Rules
+* Cloud Storage
+* Office Tools
+
+---
+
+### **Online Services**
+
+* MyGov.uz Basics
+* Account Setup
+* Online Payments
+* Data Security
+
+---
+
+### **Canva**
+
+* Getting Started
+* Interface
+* Posts & Presentations
+* Resumes & Cards
+* Design Tips
+
+---
+
+### **Figma**
+
+* Basics
+* Frames & Layouts
+* Components
+* Wireframes
+* Prototypes
+* Collaboration
+
+---
+
+### **Collaboration Tools**
+
+* Google Workspace
+* Trello & Notion
+* Zoom & Teams
+
+---
+
+### **Programming**
+
+* What is Programming
+* Algorithms
+* Logic & Flow
+* Scratch Projects
+
+---
+
+### **Web Basics**
+
+* HTML
+* CSS
+* JavaScript
+* DevTools
+
+---
+
+### **Projects & Next Steps**
+
+* Final Project
+* GitHub Setup
+* Hosting
+* Next Steps
+
