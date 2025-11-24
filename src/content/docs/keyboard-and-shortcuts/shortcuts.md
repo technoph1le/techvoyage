@@ -3,9 +3,11 @@ title: Shortcuts
 description: Keyboard shortcuts cheat sheet
 ---
 
-## **Keyboard Shortcuts Cheat Sheet**
+Keyboard Shortcuts Cheat Sheet
 
-### **Basic Editing**
+![CTRL + C and CTRL + V example](/assets/images/keyboard-shortcuts.png)
+
+### Basic Editing
 
 * **Ctrl + C** — Copy
 * **Ctrl + V** — Paste
@@ -16,7 +18,7 @@ description: Keyboard shortcuts cheat sheet
 * **Shift + Delete** — Delete permanently (bypass Recycle Bin)
 * **F2** — Rename selected file/folder
 
-### **File / Window Management**
+### File / Window Management
 
 * **Ctrl + N** — New window/document (varies by app)
 * **Ctrl + S** — Save
@@ -26,7 +28,7 @@ description: Keyboard shortcuts cheat sheet
 * **Ctrl + Shift + T** — Reopen last closed tab
 * **Ctrl + Shift + N** — New incognito/private window
 
-### **System / OS Actions**
+### System / OS Actions
 
 * **Ctrl + Alt + Delete** — Open security options (Task Manager, lock, etc.)
 * **Ctrl + Shift + Esc** — Open Task Manager directly
@@ -36,7 +38,7 @@ description: Keyboard shortcuts cheat sheet
 * **Windows + R** — Open Run dialog
 * **Windows + E** — Open File Explorer
 
-### **Navigation / Windows**
+### Navigation / Windows
 
 * **Alt + Tab** — Switch between open apps
 * **Alt + Enter** — Show properties of selected item / fullscreen in some apps
@@ -44,7 +46,7 @@ description: Keyboard shortcuts cheat sheet
 * **F11** — Toggle fullscreen mode
 * **F5** — Refresh
 
-### **Screenshots**
+### Screenshots
 
 * **Print Screen** — Capture full screen to clipboard
 * **Alt + PrtSc** — Capture active window to clipboard
