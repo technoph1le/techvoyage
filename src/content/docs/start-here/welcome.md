@@ -3,6 +3,8 @@ title: Welcome
 description: A reference page in my new Starlight docs site.
 ---
 
+Hey, there. 👋 Thanks for checking out!
+
 Being comfortable and confident with computers is a real advantage today - in work, school, business, and everyday life. That's why I created this guide: to help anyone who wants to get into tech or build a strong foundation in IT, starting from the very basics.
 
 You can treat this as your learning path, your reference, or your "go-to" place whenever you get stuck or want to grow further.
